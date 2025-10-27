@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-main: 'Catamaran', sans-serif;
+  --font-heading: 'Poppins', sans-serif;
+  --color-accent: #c6b197;
+}
+
+body {
+  font-family: var(--font-main);
+  margin: 0;
+  background: #fff;
+  color: #111;
+}
+
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+/* Custom Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes textGlow {
+  0% { text-shadow: 0 0 5px #c6b197; }
+  50% { text-shadow: 0 0 10px #c6b197, 0 0 20px #b79d82; }
+  100% { text-shadow: 0 0 5px #c6b197; }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.animate-text-glow {
+  animation: textGlow 3s ease-in-out infinite;
+}
+
+.animate-pulse {
+  animation: pulse 4s ease-in-out infinite;
+}
+
+.animate-pulse-slow {
+  animation: pulse 6s ease-in-out infinite;
+}
+
+/* Responsive media queries */
+@media (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .nav-left {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  .logo {
+    position: static;
+    transform: none;
+    margin: 10px 0;
+  }
+  .nav-right {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .collection-section {
+    padding: 60px 15px;
+  }
+  .collection-item img {
+    height: 320px;
+  }
+}
+html[dir='rtl'] body {
+  direction: rtl;
+  font-family: 'Cairo', sans-serif; /* Optional: better Arabic font */
+  text-align: right;
+}
+
+html[dir='rtl'] header {
+  direction: rtl;
+}
+
+html[dir='rtl'] a,
+html[dir='rtl'] button {
+  text-align: right;
+}
+/* app/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+.font-arabic {
+  font-family: 'Amiri', sans-serif;
+}
+.font-sans {
+  font-family: 'Your English Font', sans-serif;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  background: #c6b197;
+  border-radius: 50%;
+  cursor: pointer;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  background: #c6b197;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+

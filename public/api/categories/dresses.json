@@ -1,0 +1,200 @@
+[
+  {
+    "id": "abaya-001",
+    "slug": "m05-elegant-burgundy-abaya",
+    "title": "Elegant Burgundy Abaya with Collar and Side Slits",
+    "price": 550,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Command elegance with this rich burgundy abaya featuring a sleek collar and modern side slits. Paired with a matching headscarf, it’s the perfect balance of luxury, confidence, and timeless modest fashion. Crafted from premium fabric for all-day comfort and flow.",
+    "images": ["/images/1/2J3A0408.jpg", "/images/1/2J3A0412.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-002",
+    "slug": "m02-chic-green-abaya",
+    "title": "Chic Green Abaya with Exposed Stitch Detailing",
+    "price": 375,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "A statement in simplicity, this chic green abaya features exposed stitch details on the front and sleeves, adding subtle texture and refined charm. Finished with a matching headscarf, it embodies effortless modern modest elegance for every occasion.",
+    "images": ["/images/2/2J3A0440.jpg", "/images/2/2J3A0450.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-003",
+    "slug": "m17-stunning-blue-crepe-abaya",
+    "title": "Stunning Blue Crepe Abaya with Matching Headscarf",
+    "price": 400,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Flowy, elegant, and endlessly versatile, this blue crepe abaya is designed for modern modest luxury. The lightweight drape and matching headscarf make it a flawless choice for everyday sophistication or evening grace.",
+    "images": ["/images/3/2J3A0478.jpg", "/images/3/2J3A0496.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-004",
+    "slug": "m21-chic-brown-collar-abaya",
+    "title": "Chic Brown Collar Abaya with Matching Headscarf",
+    "price": 575,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Where understated elegance meets modern tailoring. This brown collar abaya offers a refined silhouette with a perfect tailored fit. Paired with a matching headscarf, it defines effortless sophistication and timeless modest luxury.",
+    "images": ["/images/4/2J3A0529.jpg", "/images/4/2J3A0533.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-005",
+    "slug": "m03-elegant-turquoise-abaya",
+    "title": "Elegant Turquoise Abaya with Stitch Details",
+    "price": 375,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Refined yet bold, this turquoise abaya is beautifully crafted with chic stitch detailing along the front and sleeves. Complete with a matching headscarf, it brings fresh elegance to modern modest fashion.",
+    "images": ["/images/5/2J3A0551.jpg", "/images/5/2J3A0556.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-006",
+    "slug": "m01-burgundy-stitch-abaya",
+    "title": "Elegant Burgundy Abaya with Refined Stitch Detailing",
+    "price": 375,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Minimalist yet luxurious, this deep burgundy abaya showcases fine stitched accents that elevate its silhouette. Paired with a matching headscarf, it delivers timeless grace for refined modest wear.",
+    "images": ["/images/6/2J3A0586.jpg", "/images/6/2J3A0591.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-007",
+    "slug": "m19-gradient-blue-kaftan",
+    "title": "Stunning Gradient Blue Printed Kaftan",
+    "price": 350,
+    "currency": "AED",
+    "category": "Kaftans",
+    "description": "A statement of serene beauty. This gradient blue printed kaftan features a round neckline with a chic tie detail and a flowy, lightweight design. Perfect for travel, special occasions, or elevated everyday wear.",
+    "images": ["/images/7/2J3A0610.jpg", "/images/7/2J3A0612.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-008",
+    "slug": "m08-royal-blue-tulle-abaya",
+    "title": "Royal Blue Tulle Abaya with Matching Headscarf",
+    "price": 600,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Graceful and feminine, this royal blue tulle abaya flows beautifully with every step. The sheer elegance of its layers, paired with a matching headscarf, makes it ideal for formal and evening occasions.",
+    "images": ["/images/8/2J3A0635.jpg", "/images/8/2J3A0649.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-009",
+    "slug": "m12-jade-green-lace-abaya",
+    "title": "Luxurious Jade Green Lace Abaya",
+    "price": 475,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Elegance meets sophistication with this jade green lace abaya. Detailed with intricate lacework on the front and sleeves and paired with a matching headscarf, it’s perfect for special occasions or elevated everyday wear.",
+    "images": ["/images/9/2J3A0674.jpg", "/images/9/2J3A0675.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-010",
+    "slug": "m15-soft-pink-lace-abaya",
+    "title": "Elegant Soft Pink Lace Abaya",
+    "price": 475,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Delicate and timeless, this soft pink lace abaya features intricate detailing on the front and sleeves. Completed with a matching headscarf, it offers feminine charm and modern modest luxury.",
+    "images": ["/images/10/2J3A0690.jpg", "/images/10/2J3A0701.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-011",
+    "slug": "m11-gray-lace-abaya",
+    "title": "Elegant Gray Lace Abaya",
+    "price": 475,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Classic and refined, this gray lace abaya showcases soft lace accents on the front and sleeves. With a matching headscarf, it delivers timeless elegance and effortless modest sophistication.",
+    "images": ["/images/11/2J3A0731.jpg", "/images/11/2J3A0734.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-012",
+    "slug": "m18-soft-peach-lace-abaya",
+    "title": "Stunning Soft Peach Lace Abaya",
+    "price": 475,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Soft, feminine, and graceful, this peach lace abaya radiates elegance with delicate lacework on the front and sleeves. Paired with a matching headscarf, it’s ideal for both day and evening wear.",
+    "images": ["/images/12/2J3A0754.jpg", "/images/12/2J3A0766.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-013",
+    "slug": "m13-dark-burgundy-lace-abaya",
+    "title": "Luxurious Dark Burgundy Lace Abaya",
+    "price": 475,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Rich and refined, this dark burgundy abaya features elegant matching lace detailing on the front and sleeves. Complete with a matching headscarf, it embodies timeless modest luxury.",
+    "images": ["/images/13/2J3A0800.jpg", "/images/13/2J3A0808.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-014",
+    "slug": "m06-rust-orange-abaya",
+    "title": "Stunning Rust Orange Abaya with Slit Arm Detail",
+    "price": 450,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Modern and bold, this rust orange abaya stands out with its chic slit arm detail and sleek design. Paired with a matching headscarf, it’s made for confident, timeless modest style.",
+    "images": ["/images/14/2J3A0821.jpg", "/images/14/2J3A0828.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-015",
+    "slug": "m09-fuchsia-dress-bow",
+    "title": "Chic Fuchsia Pink Dress with Bow Tie",
+    "price": 450,
+    "currency": "AED",
+    "category": "Dresses",
+    "description": "A bold and sophisticated statement piece. This fuchsia pink dress features a high neck with an elegant back bow tie and comes with a matching headscarf for complete, polished modest style.",
+    "images": ["/images/15/2J3A0854.jpg", "/images/15/2J3A0859.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-016",
+    "slug": "m10-mint-green-lace-abaya",
+    "title": "Elegant Mint Green Lace Abaya",
+    "price": 475,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Fresh, delicate, and timeless, this mint green lace abaya is detailed with lacework on the front, sleeves, and slit. The matching headscarf completes its refined, graceful look.",
+    "images": ["/images/16/2J3A0886.jpg", "/images/16/2J3A0893.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-017",
+    "slug": "m07-bottle-green-layered-abaya",
+    "title": "Elegant Bottle Green Layered Abaya",
+    "price": 450,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Crafted with a modern layered design, this bottle green abaya offers a flowing, elegant silhouette. Paired with a matching headscarf, it redefines effortless modest elegance for any occasion.",
+    "images": ["/images/17/2J3A0911.jpg", "/images/17/2J3A0917.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "abaya-018",
+    "slug": "m14-olive-french-lace-abaya",
+    "title": "Olive French Lace Abaya Layered with Chiffon Inner & Headscarf",
+    "price": 550,
+    "currency": "AED",
+    "category": "Abayas",
+    "description": "Indulge in timeless sophistication with this olive French lace abaya, beautifully layered over a soft chiffon inner layer for a graceful, flowy silhouette. Paired with a matching headscarf, it’s a high-end design blending luxury and modesty.",
+    "images": ["/images/18/2J3A0926.jpg", "/images/18/2J3A0934.jpg"],
+    "sizes": ["S", "M", "L", "XL"]
+  }
+]
