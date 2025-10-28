@@ -23,8 +23,8 @@ export default function Header() {
       contact: 'Contact',
       account: 'Account',
       language: 'العربية',
-      byCategory: 'By Category',
       byCollection: 'By Collection',
+      byCategory: 'By Category',
       aboutLinks: [
         { name: 'The Brand', href: '/about/thebrand' },
         { name: 'Blog', href: '/about/blog' }
@@ -37,8 +37,8 @@ export default function Header() {
       contact: 'اتصل بنا',
       account: 'الحساب',
       language: 'English',
-      byCategory: 'حسب الفئة',
       byCollection: 'حسب المجموعة',
+      byCategory: 'حسب الفئة',
       aboutLinks: [
         { name: 'العلامة التجارية', href: '/about/thebrand' },
         { name: 'الصحافة', href: '/about/press' }

@@ -2,10 +2,10 @@ import Image from 'next/image';
 
 export default function Collections() {
   const collections = [
-    { title: 'New Arrivals', image: '/images/14/2J3A0821.jpg' },
     { title: 'Bridal', image: '/images/12/2J3A0755.jpg' },
     { title: 'Ready To Wear', image: '/images/9/2J3A0676.jpg' },
     { title: 'Top Sales', image: '/images/11/2J3A0731.jpg' },
+    { title: 'New Arrivals', image: '/images/14/2J3A0821.jpg' },
   ];
 
   return (

@@ -29,11 +29,6 @@ export default function CollectionSection() {
                 className="w-full h-[500px] object-cover rounded-2xl transition-transform duration-700 group-hover:scale-105"
                 priority
               />
-              <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-center justify-center">
-                <h3 className="text-white text-2xl font-semibold uppercase tracking-wide">
-                  {item.title}
-                </h3>
-              </div>
             </div>
           ))}
         </div>
