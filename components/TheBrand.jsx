@@ -40,29 +40,16 @@ export default function TheBrand() {
           The Brand
         </h1>
         <p className="text-lg md:text-xl mt-6 text-gray-600 max-w-2xl mx-auto leading-relaxed">
-          Designing for the moving eye — where elegance meets emotion, and
-          every detail is a work of art.
+          Born from a love of refined simplicity, <span className="text-[#c6b197] font-medium">Mirah</span> celebrates women who find beauty in understated elegance.
         </p>
       </div>
 
       {/* ================= BRAND STORY SECTION ================= */}
       <div className="max-w-5xl mx-auto px-6 md:px-16 py-24 text-center space-y-12">
         <p className="fade-up text-gray-700 leading-relaxed text-lg">
-          <span className="text-[#c6b197] font-medium">Mirah</span> is devoted to
-          creating a wardrobe of haute and timeless pieces that leave a lasting impression. 
-          Each design is envisioned as a visual poem — balancing modern femininity with
-          quiet sophistication.
-        </p>
-
-        <p className="fade-up text-gray-700 leading-relaxed text-lg">
-          Inspired by the rhythm of nature and its perfect imperfections,
-          <span className="text-[#c6b197] font-medium"> Mirah</span> finds beauty in the unseen.
-          Every thread and silhouette tells a story — one of strength, grace, and individuality.
-        </p>
-
-        <p className="fade-up text-gray-700 leading-relaxed text-lg">
-          <span className="text-[#c6b197] font-medium">Mirah’s</span> aesthetic transcends fashion —
-          redefining modest luxury through artful design and refined craftsmanship.
+         Our collections blend chic modernity, classic silhouettes, and minimalist details that speak to effortless sophistication.
+          Each piece is thoughtfully designed to reflect both modesty and contemporary style. Rooted in quality and guided by moral care, we focus on creating garments that honor individuality while celebrating refined femininity.
+          At Mirah, fashion is more than appearance; it is a quiet expression of confidence, authenticity, and purpose.
         </p>
       </div>
 
